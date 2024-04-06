@@ -5,5 +5,5 @@
  * @author carlo
  *
  */
-module Asistencia {
+module Assitencia {
 }
