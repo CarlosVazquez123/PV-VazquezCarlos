@@ -7,7 +7,7 @@ public class Prueba {
 	public static void main(String[] args) {
 		String saludo = "Hola PV 2024";
 		System.out.println(saludo);
-
+ 
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Ingrese un nombre: ");
 		String nombre = scanner.next(); 
